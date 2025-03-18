@@ -7,4 +7,4 @@ permalink: /about/
 * [GitHub](https://github.com/jiyongjung0)
 * [Bluesky](https://bsky.app/profile/jiyongjung0.bsky.social)
 * [LinkedIn](https://www.linkedin.com/in/jiyongjung/)
-
+* [Email](mailto:bwhite8129@gmail.com)
